@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="28.0.7">
   <diagram name="Seite-1" id="ddYGlzPk5iQ9ytmfq_tQ">
-    <mxGraphModel dx="2008" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2255" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="1YJK51U86fi5NXy0gk8_-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kapitel 4: Praxisevaluation des MCP im Unternehmensumfeld der SICK AG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-190" y="280" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1YJK51U86fi5NXy0gk8_-7" value="Kapitel 5: Fazit, Handlungsempfehlung und Ausblick" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="1YJK51U86fi5NXy0gk8_-7" value="Kapitel 5: Fazit, Handlungsempfehlungen und Ausblick" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-480" y="425" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1YJK51U86fi5NXy0gk8_-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18.88888888888889;endSize=6.891666666666667;width=33.333333333333336;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" edge="1">
