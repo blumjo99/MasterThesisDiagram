@@ -1,56 +1,68 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="28.1.0">
   <diagram name="Seite-1" id="ZJbjya6IC8342XkBFOsz">
-    <mxGraphModel dx="1425" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="83e46J-lGZv78bekPlSt-8" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-8" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="180" y="460" width="360" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-7" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-7" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="235" y="505" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-6" value="&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-6" value="&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="560" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="162" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="245" y="203" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="275" y="256" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-1" value="&lt;div&gt;Generative &lt;br&gt;&lt;/div&gt;&lt;div&gt;AI&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-1" value="&lt;div&gt;Generative &lt;br&gt;&lt;/div&gt;&lt;div&gt;AI&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-5" value="Generative AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-5" value="Generative AI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-9" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-9" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="250" y="710" width="290" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-10" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-10" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="770" width="214" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-11" value="&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-11" value="&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="810" width="167" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-12" value="Generative AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-12" value="Generative AI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="850" width="101" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-13" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;Künstliche Intelligenz&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-13" value="Künstliche Intelligenz" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#dae8fc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="521" y="230" width="290" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-14" value="&lt;div&gt;&lt;div&gt;Maschinelles Lernen&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-14" value="Maschinelles Lernen&#xa;" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="562" y="260" width="214" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-15" value="&lt;div&gt;Deep Learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-15" value="Deep-Learning&#xa;" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="585.5" y="290" width="167" height="81.5" as="geometry" />
         </mxCell>
-        <mxCell id="83e46J-lGZv78bekPlSt-16" value="Generative KI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="83e46J-lGZv78bekPlSt-16" value="Generative KI" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="618.5" y="320" width="101" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KEwPxeywiCIN4CCiMy2z-1" value="Künstliche Intelligenz" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="240" width="270" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="KEwPxeywiCIN4CCiMy2z-2" value="Maschinelles Lernen&#xa;" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="891" y="270" width="214" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="KEwPxeywiCIN4CCiMy2z-3" value="Deep-Learning&#xa;" style="rounded=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="914.5" y="300" width="167" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KEwPxeywiCIN4CCiMy2z-4" value="Generative KI" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="325" width="101" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
