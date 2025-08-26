@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="28.1.0">
   <diagram name="Seite-1" id="ddYGlzPk5iQ9ytmfq_tQ">
-    <mxGraphModel dx="2255" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,6 +32,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-320" y="368" as="sourcePoint" />
             <mxPoint x="-320" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWC_-V1zvL8ZOaY04CQN-4" value="Technische Implementierung von Tool-Using und das MCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="720" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QWC_-V1zvL8ZOaY04CQN-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Praxisevaluation des MCP im Unternehmensumfeld der SICK AG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="720" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QWC_-V1zvL8ZOaY04CQN-6" value="Fazit, Handlungsempfehlungen und Ausblick" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="865" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWC_-V1zvL8ZOaY04CQN-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18.88888888888889;endSize=6.891666666666667;width=33.333333333333336;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-55.42000000000007" y="808" as="sourcePoint" />
+            <mxPoint x="-55.42000000000007" y="858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWC_-V1zvL8ZOaY04CQN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18.88888888888889;endSize=6.891666666666667;width=33.333333333333336;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="808" as="sourcePoint" />
+            <mxPoint x="-320" y="858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
